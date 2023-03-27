@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
-- 
+
 ## Overview
 To do this challenge, you need a basic understanding of HTML and CSS.
 
