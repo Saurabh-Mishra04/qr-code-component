@@ -24,7 +24,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-and-LCe6YGvXZX)
 - Live Site URL: [saurabh-mishra04.github.io](https://saurabh-mishra04.github.io/qr-code-component/)
 
 ### Built with
